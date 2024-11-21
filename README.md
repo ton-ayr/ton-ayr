@@ -9,7 +9,7 @@
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayrton-césar-barreira-27974921a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayrton-césar-barreira-27974921a" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ayrton-cesar-barreira-27974921a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayrton-césar-barreira-27974921a" height="30" width="40" /></a>
 <a href="https://instagram.com/ton.ayr6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ton.ayr6" height="30" width="40" /></a>
 <a href="https://discord.gg/ton.ayr6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ton.ayr6" height="30" width="40" /></a>
 </p>
