@@ -1,7 +1,7 @@
 <h1 align="center">Ooi 👋, Eu sou Ayrton Cesar</h1>
 <h3 align="center">Suporte N2 Senior | Analista de dados | Estudante de programação</h3>
 
-- 🌱 Atualmente estou aprendendo **Logica de Programação orientada a objeto, PHP e Python**
+- 🌱 Atualmente estou aprendendo **Logica de Programação orientada a objeto com JavaScript, PHP e Python**
 
 - 💬 Pergunte-me sobre **SQL, ElasticSearch, Scrum, Meta ADS e Google ADS**
 
