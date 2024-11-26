@@ -42,12 +42,10 @@
 <br>
 </div>
 <div align="center" style="margin-top: 20px;">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ton-ayr&theme=tokyonight&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ton-ayr&theme=tokyonight&hide_border=false&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900" alt="GitHub Streak" /></a>
 </div>
 
 <div style="display: inline_block" align="center"><br>
- <img src='https://github-readme-stats.vercel.app/api?username=ton-ayr&show_icons=true&count-private=true&theme=tokyonight' height="180em"/> 
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ton-ayr&count-private=true&theme=tokyonight&layout=compact' height="180em">
+ <img src='https://github-readme-stats.vercel.app/api?username=ton-ayr&theme=tokyonight&show_icons=true&hide_border=false&count_private=true' height="180em"/> 
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ton-ayr&theme=tokyonight&show_icons=true&hide_border=false&layout=compact' height="180em">
   </div>
-
-  
