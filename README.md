@@ -5,7 +5,7 @@
 
 - 💬 Pergunte-me sobre **SQL, ElasticSearch, Scrum, Meta ADS e Google ADS**
 
-- 📫 Contato **ayrtoncbarreira@gmail.com**
+- 📫 E-mail **ayrtoncbarreira@gmail.com**
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
@@ -22,9 +22,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<!---
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
---->
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
@@ -38,3 +36,18 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
+
+<br>
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+<br>
+</div>
+<div align="center" style="margin-top: 20px;">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ton-ayr&theme=tokyonight&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900" alt="GitHub Streak" /></a>
+</div>
+
+<div style="display: inline_block" align="center"><br>
+ <img src='https://github-readme-stats.vercel.app/api?username=ton-ayr&show_icons=true&count-private=true&theme=tokyonight' height="180em"/> 
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ton-ayr&count-private=true&theme=tokyonight&layout=compact' height="180em">
+  </div>
+
+  
