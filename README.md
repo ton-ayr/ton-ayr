@@ -1,4 +1,4 @@
-<h1 align="center">Ooi 👋, Eu sou Ton</h1>
+<h1 align="center">Ooi 👋, Eu sou o Ton</h1>
 <h3 align="center">Suporte N2 | Analista de dados | Estudante de programação</h3>
 
 - 🌱 Atualmente estou aprendendo **Programação orientada a objeto com JavaScript, PHP e Python**
