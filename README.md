@@ -1,7 +1,7 @@
 <h1 align="center">Ooi 👋, Eu sou o Ton</h1>
 <h3 align="center">Suporte N2 | Analista de dados | Estudante de programação</h3>
 
-- 🌱 Atualmente aprimorando habilidades em POO com Node.js (JavaScript) e Python, além de cursar ADS.
+- 🌱 Atualmente aprimorando habilidades em POO com Node.js (JavaScript) e Python
 
 - 💬 Pergunte-me sobre **SQL, ElasticSearch, Postman, Scrum, Meta Ads e Google Ads**
 
